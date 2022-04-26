@@ -1,0 +1,19 @@
+# Title: Trạm Sách Block Ads
+# Last modified: 27 Apr 2022 23:00 UTC+7
+# Version: VN Beta 1
+# Please report any ads or problems on GitHub
+# Homepage: http://tramsach.com
+
+# Block macOS app cracked
+0.0.0.0 downiestatistics.com
+0.0.0.0 analytics36.techsmith.com
+0.0.0.0 api.simplify3d.com
+0.0.0.0 check.bombich.com
+
+# Block Xiaomi Router auto connect
+||baidu.com^
+
+# Internal Only 
+@@||analytics.google.com$client=192.168.1.21
+@@||analytics.google.com$client=192.168.1.22
+@@||tramsach.com
