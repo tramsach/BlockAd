@@ -1,8 +1,8 @@
 ---
 name: Bổ sung thêm tên miền
 about: Đề xuất thêm tên miền quảng cáo
-title: "[Add Server]"
-labels: ''
+title: "AddServer"
+labels: 'addserver'
 assignees: tramsach
 
 ---
