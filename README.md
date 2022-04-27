@@ -12,7 +12,7 @@ Hiện tại chúng mình đang xây dựng bộ lọc cho các ứng dụng tr�
 https://raw.githubusercontent.com/tramsach/blockad/admin/adVN
 ```
 
-- Bộ lọc quảng cáo nước ngoài (thu thập qua quá monitor).
+- Bộ lọc quảng cáo nước ngoài (thu thập qua monitor trên router và vpn).
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/adGLmin
 ```
