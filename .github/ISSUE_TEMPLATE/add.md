@@ -7,14 +7,11 @@ assignees: tramsach
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+[//]: # (***Vui lòng nhập thông tin phía dưới dòng có dấu "[//]:" các dòng này sẽ bị ẩn khi đăng bài. Xin cám ơn!)
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+[//]: # (Nếu bạn muốn thêm tên miền mới, vui lòng đưa tên miền vào thẻ bên dưới.)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+***Tên miền***:
+```
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+```
