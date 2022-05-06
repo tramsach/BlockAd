@@ -2,7 +2,7 @@
 name: Báo lỗi
 about: Lỗi trong quá trình sử dụng bộ lọc
 title: BUG
-labels: 'bug'
+labels: bug
 assignees: tramsach
 
 ---
