@@ -26,5 +26,5 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/ott
 
 - Chặn cập nhật ứng dụng (app crack)
 ```
-updating
+https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
 ```
