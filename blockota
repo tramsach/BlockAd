@@ -2,3 +2,22 @@
 # Last modified: 27 Apr 2022 23:00 UTC+7
 # Version: OTA Beta 1
 # Homepage: http://tramsach.com
+# NOTE: Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này
+
+# Apple
+0.0.0.0 appldnld.apple.com
+0.0.0.0 appldnld.apple.com.akadns.net
+0.0.0.0 appldnld-lb.apple.com.akadns.net
+0.0.0.0 appldnld.g.aaplimg.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 mesu-cdn.apple.com.akadns.net
+0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
+0.0.0.0 mesu.apple.com.edgekey.net
+0.0.0.0 gdmf.apple.com
+0.0.0.0 gdmf.apple.com.akadns.net
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp-lb.apple.com.akadns.net
+0.0.0.0 ocsp-a.g.aaplimg.com
+0.0.0.0 ocsp2.apple.com
+0.0.0.0 ocsp2-lb.apple.com.akadns.net
+0.0.0.0 ocsp2.g.aaplimg.com
