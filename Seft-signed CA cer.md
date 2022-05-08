@@ -20,7 +20,7 @@ openssl genrsa -out ca.key 2048
 ```
 4. Tạo chứng chỉ CA
 ````
-openssl req -x509 -new -nodes -key ca.key -subj "/C=VN/ST=Hanoi/L=Hanoi/O=TRAMSACH/OU=TRAMSACH/CN=TRAMSACH/emailAddress=son@tramsach.com" -days 36500 -out ca.crt
+openssl req -x509 -new -nodes -key ca.key -subj "/C=VN/ST=Ha Noi/L=Ha Noi/O=TRAM SACH/OU=TRAM SACH/CN=TRAM SACH/emailAddress=son@tramsach.com" -days 36500 -out ca.crt
 ````
 trong đó:
 - **C** là Vùng, khu vực: VN
@@ -35,7 +35,7 @@ trong đó:
 5. Chuyển đổi định dạng CA sang p12 và đặt mật khẩu 
 
 ```
-openssl pkcs12 -export -clcerts -in ./ca.crt -inkey ca.key -out ca.p12 -password pass:tramsach
+openssl pkcs12 -export -clcerts -in ./tramsach.crt -inkey tramsach.key -out tramsach.p12 -password pass:tramsach.com
 ```
 6. Mã hóa base64 cho chứng chỉ p12
 ```
