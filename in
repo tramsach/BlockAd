@@ -3,16 +3,26 @@
 # Version: Internal Beta 1
 # Homepage: http://tramsach.com
 
+# Block Xiaomi Router auto connect
+||baidu.com^
+
 # Block macOS app cracked
 0.0.0.0 downiestatistics.com
 0.0.0.0 analytics36.techsmith.com
 0.0.0.0 api.simplify3d.com
 0.0.0.0 check.bombich.com
 
-# Block Xiaomi Router auto connect
-||baidu.com^
-
-# Internal Only 
+# Local
 @@||analytics.google.com$client=192.168.1.21
 @@||analytics.google.com$client=192.168.1.22
 @@||tramsach.com
+
+# Zalo 
+0.0.0.0 qos-talk.123c.vn^$client=192.168.1.2
+0.0.0.0 qos-zdn.123c.vn^$client=192.168.1.2
+0.0.0.0 trk.staging.123c.vn^$client=192.168.1.2
+0.0.0.0 failover.123c.vn^$client=192.168.1.2
+0.0.0.0 sales.ads.zaloapp.com^$client=192.168.1.2
+0.0.0.0 zaloapp.com^$client=192.168.1.2
+0.0.0.0 zalo.me^$client=192.168.1.2
+0.0.0.0 centralized.zaloapp.com^$client=192.168.1.2
