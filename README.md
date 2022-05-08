@@ -5,7 +5,7 @@ Bộ lọc này được xây dựng phục vụ chặn quảng cáo cho team b�
 
 Hiện tại chúng mình đang xây dựng bộ lọc cho các ứng dụng trên điện thoại như Surge, Shadowrocket, QuantumultX, Adaway.
 
-Mình cũng đang thử nghiệm tính năng chặn quảng cáo trên ios <14 bằng mobileconfig với các máy đã jailbreak.
+Mình cũng đang thử nghiệm tính năng chặn quảng cáo trên iOS <14 bằng mobileconfig với các máy đã jailbreak.
 
 ## Các bộ lọc quảng cáo
 
