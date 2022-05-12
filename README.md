@@ -19,6 +19,11 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/adVN
 https://raw.githubusercontent.com/tramsach/blockad/admin/adGLmin
 ```
 
+- Bộ lọc  từ  chống  lừa  đảo 
+```
+https://raw.githubusercontent.com/tramsach/blockad/admin/chongluadao
+```
+
 - Bộ lọc cho ứng dụng OTT
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/ott
