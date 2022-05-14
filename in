@@ -11,6 +11,7 @@
 0.0.0.0 analytics36.techsmith.com
 0.0.0.0 api.simplify3d.com
 0.0.0.0 check.bombich.com
+0.0.0.0 stat.i-funbox.com
 
 # Local
 @@||analytics.google.com$client=192.168.1.21
