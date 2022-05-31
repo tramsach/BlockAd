@@ -15,16 +15,16 @@
 0.0.0.0 stat.ifunboxmac.com
 
 # Local
-@@||analytics.google.com$client=192.168.1.21
-@@||analytics.google.com$client=192.168.1.22
+@@||analytics.google.com$client=10.0.0.21
+@@||analytics.google.com$client=10.0.0.22
 @@||tramsach.com
 
 # Zalo 
-0.0.0.0 qos-talk.123c.vn^$client=192.168.1.2
-0.0.0.0 qos-zdn.123c.vn^$client=192.168.1.2
-0.0.0.0 trk.staging.123c.vn^$client=192.168.1.2
-0.0.0.0 failover.123c.vn^$client=192.168.1.2
-0.0.0.0 sales.ads.zaloapp.com^$client=192.168.1.2
-0.0.0.0 zaloapp.com^$client=192.168.1.2
-0.0.0.0 zalo.me^$client=192.168.1.2
-0.0.0.0 centralized.zaloapp.com^$client=192.168.1.2
+0.0.0.0 qos-talk.123c.vn^$client=10.0.0.2
+0.0.0.0 qos-zdn.123c.vn^$client=10.0.0.2
+0.0.0.0 trk.staging.123c.vn^$client=10.0.0.2
+0.0.0.0 failover.123c.vn^$client=10.0.0.2
+0.0.0.0 sales.ads.zaloapp.com^$client=10.0.0.2
+0.0.0.0 zaloapp.com^$client=10.0.0.2
+0.0.0.0 zalo.me^$client=10.0.0.2
+0.0.0.0 centralized.zaloapp.com^$client=10.0.0.2
