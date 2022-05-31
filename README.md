@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/chongluadao
 https://raw.githubusercontent.com/tramsach/blockad/admin/ott
 ```
 
-- Chặn cập nhật ứng dụng (app crack)
+- Chặn cập nhật ứng dụng Apple (Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này)
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
 ```
