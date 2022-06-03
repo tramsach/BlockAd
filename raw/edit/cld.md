@@ -1,9 +1,9 @@
 # Title: Trạm Sách Block Ads
-# Last modified: 3 Jun 2022 23:00 UTC+7
+# Last modified: 28 Apr 2022 23:00 UTC+7
 # Version: VNbadsite Beta 1
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
-# Note: Filter from chongluadao.vn
+# Note: filter from chongluadao.vn
 
 0.0.0.0 000000.live
 0.0.0.0 0000a.net
