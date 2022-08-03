@@ -7,7 +7,7 @@ Hiện tại chúng mình đang xây dựng bộ lọc cho các ứng dụng tr�
 
 Mình cũng đang thử nghiệm tính năng chặn quảng cáo trên iOS <14 bằng mobileconfig với các máy đã jailbreak.
 
-## Các bộ lọc quảng cáo
+## Các bộ lọc quảng cáo cho Adguard 
 
 - Bộ lọc quảng cáo Việt Nam.
 ```
