@@ -209,9 +209,9 @@
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
 0.0.0.0 sts.si.advertising.microsoft.com
+
 # Microsoft Spy
 # Windown Spy  Host
-
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
