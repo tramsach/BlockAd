@@ -13,3 +13,5 @@
 0.0.0.0 zalo.me^$client=192.168.1.2
 0.0.0.0 centralized.zaloapp.com^$client=192.168.1.2
 
+
+0.0.0.0 ads-cdn.fptplay.net

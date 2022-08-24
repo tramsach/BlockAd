@@ -1199,6 +1199,7 @@
 0.0.0.0 customers.fptad.com
 0.0.0.0 img.customers.fptad.com
 0.0.0.0 static.customers.fptad.com
+0.0.0.0 ads-cdn.fptplay.net
 # phukienthoitranggiare.com 
 0.0.0.0 asg.phukienthoitranggiare.com
 0.0.0.0 phukienthoitranggiare.com
