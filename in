@@ -25,6 +25,4 @@
 0.0.0.0 trk.staging.123c.vn^$client=10.0.0.2
 0.0.0.0 failover.123c.vn^$client=10.0.0.2
 0.0.0.0 sales.ads.zaloapp.com^$client=10.0.0.2
-0.0.0.0 zaloapp.com^$client=10.0.0.2
-0.0.0.0 zalo.me^$client=10.0.0.2
 0.0.0.0 centralized.zaloapp.com^$client=10.0.0.2
