@@ -1,0 +1,15 @@
+# Title: Trạm Sách Block Ads
+# Last modified: 3 Jun 2022 23:00 UTC+7
+# Version: Block Zalo
+# Homepage: http://tramsach.com
+# Note: block Zalo app
+
+0.0.0.0 chat3-wpa.chat.zalo.me
+0.0.0.0 reaction.chat.zalo.me
+0.0.0.0 quickmessage.chat.zalo.me
+0.0.0.0 p6-ctl.chat.zalo.me
+0.0.0.0 res-zalo.zadn.vn
+0.0.0.0 convers-wpa.chat.zalo.me
+0.0.0.0 p4-msg.chat.zalo.me
+0.0.0.0 wpa.chat.zalo.me
+0.0.0.0 sp.zalo.me
