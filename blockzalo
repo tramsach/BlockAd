@@ -5,6 +5,7 @@
 # Note: block Zalo app
 
 0.0.0.0 chat3-wpa.chat.zalo.me
+0.0.0.0 chat2-wpa.chat.zalo.me
 0.0.0.0 reaction.chat.zalo.me
 0.0.0.0 quickmessage.chat.zalo.me
 0.0.0.0 p6-ctl.chat.zalo.me
