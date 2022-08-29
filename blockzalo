@@ -4,13 +4,13 @@
 # Homepage: http://tramsach.com
 # Note: block Zalo app
 
-0.0.0.0 chat3-wpa.chat.zalo.me
-0.0.0.0 chat2-wpa.chat.zalo.me
-0.0.0.0 reaction.chat.zalo.me
-0.0.0.0 quickmessage.chat.zalo.me
-0.0.0.0 p6-ctl.chat.zalo.me
-0.0.0.0 res-zalo.zadn.vn
-0.0.0.0 convers-wpa.chat.zalo.me
-0.0.0.0 p4-msg.chat.zalo.me
-0.0.0.0 wpa.chat.zalo.me
-0.0.0.0 sp.zalo.me
+0.0.0.0 chat3-wpa.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 chat2-wpa.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 reaction.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 quickmessage.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 p6-ctl.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 res-zalo.zadn.vn^$client=10.0.0.21
+0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 p4-msg.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 wpa.chat.zalo.me^$client=10.0.0.21
+0.0.0.0 sp.zalo.me^$client=10.0.0.21
