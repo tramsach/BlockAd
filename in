@@ -20,9 +20,9 @@
 @@||tramsach.com
 
 # Zalo 
-0.0.0.0 qos-talk.123c.vn^$client=10.0.0.2
-0.0.0.0 qos-zdn.123c.vn^$client=10.0.0.2
-0.0.0.0 trk.staging.123c.vn^$client=10.0.0.2
-0.0.0.0 failover.123c.vn^$client=10.0.0.2
-0.0.0.0 sales.ads.zaloapp.com^$client=10.0.0.2
-0.0.0.0 centralized.zaloapp.com^$client=10.0.0.2
+#0.0.0.0 qos-talk.123c.vn^$client=10.0.0.2
+#0.0.0.0 qos-zdn.123c.vn^$client=10.0.0.2
+#0.0.0.0 trk.staging.123c.vn^$client=10.0.0.2
+#0.0.0.0 failover.123c.vn^$client=10.0.0.2
+#0.0.0.0 sales.ads.zaloapp.com^$client=10.0.0.2
+#0.0.0.0 centralized.zaloapp.com^$client=10.0.0.2
