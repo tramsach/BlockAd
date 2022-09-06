@@ -4,13 +4,27 @@
 # Homepage: http://tramsach.com
 # Note: block Zalo app
 
-0.0.0.0 chat3-wpa.chat.zalo.me
+0.0.0.0 chat1-wpa.chat.zalo.me
 0.0.0.0 chat2-wpa.chat.zalo.me
+0.0.0.0 chat3-wpa.chat.zalo.me
 0.0.0.0 reaction.chat.zalo.me
 0.0.0.0 quickmessage.chat.zalo.me
+0.0.0.0 p3-ctl.chat.zalo.me
 0.0.0.0 p6-ctl.chat.zalo.me
 0.0.0.0 res-zalo.zadn.vn
 0.0.0.0 convers-wpa.chat.zalo.me
 0.0.0.0 p4-msg.chat.zalo.me
 0.0.0.0 wpa.chat.zalo.me
 0.0.0.0 sp.zalo.me
+0.0.0.0 zaloapp.com
+0.0.0.0 friend-wpa.chat.zalo.me
+0.0.0.0 convers-wpa.chat.zalo.me
+0.0.0.0 s160-ava-talk.zadn.vn
+0.0.0.0 lp-zm.zapps.vn
+0.0.0.0 zalo.me
+0.0.0.0 bkmsg-talk.zaloapp.com
+0.0.0.0 setting.api.zaloapp.com
+0.0.0.0 rd.zapps.vn
+0.0.0.0 talk-m.zaloapp.com
+# unknown
+0.0.0.0 baomoi-static.zadn.vn
