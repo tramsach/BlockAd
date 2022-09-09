@@ -15,8 +15,8 @@
 0.0.0.0 stat.ifunboxmac.com
 
 # Local
-@@||analytics.google.com$client=10.0.0.42
-@@||analytics.google.com$client=10.0.0.22
+@@||analytics.google.com^$client=10.0.0.42
+@@||analytics.google.com^$client=10.0.0.22
 @@||tramsach.com
 
 # Unblock zalo for 1mobile

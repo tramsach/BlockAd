@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Trạm Sách</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h5 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbtNfEfTG6aK7p2UsaELtJdnhE0SD5nFxfHnzd43bb0BcgIiPKgIEburcqUV6zme159OOffBVwdKva7hR9VA-gVp4w8Ov6LwwsRioDEwe2UaPG8iAOmQoSWWCK_Rjhsjlx-3bgOBnquvFHCa0Jw6boW0hcKmKx5WoW7VTObVHNFCgknDTtwrpuTpdXg/s16000/9.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+</head>
+<body>
+<div class="bgimg w3-display-container w3-text-white">
+  <div class="w3-display-middle w3-jumbo">
+    <p>Trạm Sách</p>
+  </div>
+  <div class="w3-display-topleft w3-container">
+    <p><button onclick="document.getElementById('contact').style.display='block'" class="w3-button w3-black">Liên hệ</button></p>
+    <p><button onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-blue">Dự án của Trạm Sách</button></p>
+  </div>
+  <div class="w3-display-bottomright w3-container">
+    <p>from <a href="http://nguyenson.dev">Nguyen Son</a> with love.</p>
+  </div>
+</div>
+<!-- Menu Modal -->
+<div id="menu" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-blue w3-display-container">
+      <span onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <h2>Audiobooks và Podcast</h2>
+    </div>
+    <div class="w3-container">
+      <p>Theo dõi audiobook và podcast của chúng mình:</p>
+      <p>- <a href="https://open.spotify.com/show/12ecMRjfHwxZhU7pHFQKCX">Spotify</a></p>
+      <p>- <a href="https://anchor.fm/tramsach">https://anchor.fm/tramsach</a></p>
+      <p>- <a href="https://podcasts.apple.com/vn/podcast/tr%E1%BA%A1m-s%C3%A1ch/">Apple Podcasts</a></p>
+      <p>- <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NDk1OTQ2OC9wb2RjYXN0L3Jzcw">Google Podcast</a></p>
+      <p><b>* Chúng mình cũng đang alpha test trang audiobook riêng, các bạn có thể gửi yêu cầu qua email connect@tramsach.com để lấy tài khoản test.</b></p>
+    </div>
+    <div class="w3-container w3-blue">
+    <h2>Chia sẻ ebook</h2>
+    </div>
+    <div class="w3-container">
+    <p>Hiện tại chúng mình đang tạm dừng dự án này.</p>
+    <p>Chúng mình sẽ cập nhật sau cho các bạn.</p>
+    <p>Cảm ơn các bạn đã ủng hộ.</p>
+    </div>  
+    <div class="w3-container w3-blue">
+      <h2>BlockAds và DNS</h2>
+    </div>
+    <div class="w3-container">
+      <p>Đây là DNS chặn quảng cáo bằng Adguard Home.</p>
+      <p>Bộ lọc sử dụng bộ lọc mặc định của Adguard Home và BlockAd do bọn mình xây dựng.</p>
+      <p>Chúng mình không lưu bất kỳ thông tin nào của bạn.</p>
+      <p>- DNS: 129.150.39.54</p>
+      <p>Bộ lọc BlockAd các bạn tìm hiểu thêm ở đây: <a href="https://github.com/tramsach/blockad">https://github.com/tramsach/blockad</a></p>
+    </div>
+  </div>
+</div>
+<!-- Contact Modal -->
+<div id="contact" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-blue">
+      <span onclick="document.getElementById('contact').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <h2>Liên hệ với Trạm Sách</h2>
+    </div>
+    <div class="w3-container">
+      <h4>Bạn có thể liên hệ với Trạm Sách qua địa chỉ email: connect@tramsach.com</h4>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+
