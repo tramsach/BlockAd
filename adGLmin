@@ -8437,7 +8437,8 @@
 0.0.0.0 t.keywee.co
 0.0.0.0 tracking.keywee.co
 0.0.0.0 www.keywee.co
-# baidu.com 
+# baidu
+0.0.0.0 baidu.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 als.baidu.com
 0.0.0.0 bzclk.baidu.com
