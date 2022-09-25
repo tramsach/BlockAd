@@ -10346,7 +10346,11 @@
 # Affiliate Link
 0.0.0.0 intelek.my.id
 0.0.0.0 jawabsoal.live
-# Router XiaoMi
+# XiaoMi Eco-system
 0.0.0.0 163.com
 0.0.0.0 meituan.com
 0.0.0.0 sohu.com
+||www.sohu.com^$important
+||www.163.com^$important
+0.0.0.0 wshifen.com
+0.0.0.0 taobao.com
