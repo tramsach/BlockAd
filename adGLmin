@@ -10353,7 +10353,7 @@
 0.0.0.0 sohu.com
 ||www.sohu.com^$important
 ||www.163.com^$important
-0.0.0.0 wshifen.com
-0.0.0.0 taobao.com
-0.0.0.0 baidu.com
-0.0.0.0 qq.com
+||www.wshifen.com^$important
+||www.taobao.com^$important
+||www.baidu.com^$important
+||www.qq.com^$important
