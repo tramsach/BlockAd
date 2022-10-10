@@ -36,14 +36,14 @@
 0.0.0.0 iadworkbench-soak.iad.apple.com
 0.0.0.0 iris.iad.apple.com
 0.0.0.0 stg-cmws.iad.apple.com
-# bugsnag
+# [bugsnag]
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
-# doubleclick.net 
+# [doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.au.doubleclick.net
@@ -112,7 +112,7 @@
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
-# adservice.google.* 
+# [adservice.google.]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.com.sg
