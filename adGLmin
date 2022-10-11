@@ -209,8 +209,6 @@
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
 0.0.0.0 sts.si.advertising.microsoft.com
-
-# Microsoft Spy
 # Windown Spy  Host
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
@@ -10347,6 +10345,9 @@
 # Affiliate Link
 0.0.0.0 intelek.my.id
 0.0.0.0 jawabsoal.live
+# Scam 
+0.0.0.0 1113.foehuefun.live
+0.0.0.0 trk.adtrk18.com
 # XiaoMi Eco-system
 0.0.0.0 163.com
 0.0.0.0 meituan.com
