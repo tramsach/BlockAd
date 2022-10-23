@@ -1,5 +1,4 @@
 
-const baseURL = "https://v.firebog.net/hosts/lists.php?type=tick"; // Có thể xoá được dòng này
 const baseURL = "https://raw.githubusercontent.com/tramsach/blockad/admin/opt/adlist.txt";
 const type = 'application/text;charset=UTF-8';
 
