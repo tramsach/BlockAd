@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
