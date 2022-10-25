@@ -29,11 +29,6 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/vnbadsite
 https://raw.githubusercontent.com/tramsach/blockad/admin/malware
 ```
 
-- Bộ lọc cho ứng dụng OTT
-```
-https://raw.githubusercontent.com/tramsach/blockad/admin/ott
-```
-
 - Bộ lọc theo dõi trong các ứng dụng OTT (hiện tại chỉ có Zalo)
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/ott
