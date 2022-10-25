@@ -15,29 +15,29 @@
 0.0.0.0 stat.ifunboxmac.com
 
 # Local
-@@||analytics.google.com^$client=10.0.0.42
-@@||analytics.google.com^$client=10.0.0.22
+@@||analytics.google.com^$client=10.21.12.11
+@@||analytics.google.com^$client=10.21.12.11
 
 # Unblock zalo for 1mobile
-0.0.0.0 chat1-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 chat2-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 chat3-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 reaction.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 quickmessage.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 p3-ctl.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 p6-ctl.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 res-zalo.zadn.vn^$client=10.0.0.42
-0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 p4-msg.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 sp.zalo.me^$client=10.0.0.42
-0.0.0.0 zaloapp.com^$client=10.0.0.42
-0.0.0.0 friend-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
-0.0.0.0 s160-ava-talk.zadn.vn^$client=10.0.0.42
-0.0.0.0 lp-zm.zapps.vn^$client=10.0.0.42
-0.0.0.0 zalo.me^$client=10.0.0.42
-0.0.0.0 bkmsg-talk.zaloapp.com^$client=10.0.0.42
-0.0.0.0 setting.api.zaloapp.com^$client=10.0.0.42
-0.0.0.0 rd.zapps.vn^$client=10.0.0.42
-0.0.0.0 talk-m.zaloapp.com^$client=10.0.0.42
+# 0.0.0.0 chat1-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 chat2-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 chat3-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 reaction.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 quickmessage.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 p3-ctl.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 p6-ctl.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 res-zalo.zadn.vn^$client=10.0.0.42
+# 0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 p4-msg.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 sp.zalo.me^$client=10.0.0.42
+# 0.0.0.0 zaloapp.com^$client=10.0.0.42
+# 0.0.0.0 friend-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
+# 0.0.0.0 s160-ava-talk.zadn.vn^$client=10.0.0.42
+# 0.0.0.0 lp-zm.zapps.vn^$client=10.0.0.42
+# 0.0.0.0 zalo.me^$client=10.0.0.42
+# 0.0.0.0 bkmsg-talk.zaloapp.com^$client=10.0.0.42
+# 0.0.0.0 setting.api.zaloapp.com^$client=10.0.0.42
+# 0.0.0.0 rd.zapps.vn^$client=10.0.0.42
+# 0.0.0.0 talk-m.zaloapp.com^$client=10.0.0.42
