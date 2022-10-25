@@ -33,6 +33,12 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/malware
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/ott
 ```
+
+- Block Zalo
+```
+https://raw.githubusercontent.com/tramsach/blockad/admin/blockzalo
+```
+
 - Chặn cập nhật ứng dụng Apple (Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này)
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
