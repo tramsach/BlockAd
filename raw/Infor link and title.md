@@ -9,7 +9,7 @@
 # Version: Global Min Beta 2
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
-# Filter Link: 
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/globalmin
 
 
 # Title: Trạm Sách VN Ads Servers
@@ -17,21 +17,22 @@
 # Version: VN Ads Servers Beta 2
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
-# Filter Link: 
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
 
 # Title: Trạm Sách VN Badsites
 # Update: 25 Oct 2022 10:00 UTC+7
 # Version: VN Badsites Beta 2
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
-# Filter Link: 
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnbadsite
 
 # Title: Trạm Sách Internal Beta 2
 # Update: 25 Oct 2022 10:00 UTC+7
 # Version: Internal Beta 2
 # Homepage: http://tramsach.com
 # Filter for internal use only.
-# Filter link:
+# https://raw.githubusercontent.com/tramsach/blockad/admin/internal
+
 
 # Title: Trạm Sách Global Malware Domain
 # Update: 25 Oct 2022 10:00 UTC+7
@@ -39,18 +40,18 @@
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
 # Source: https://urlhaus.abuse.ch/api/
-# Filter link:
+# Filter link: https://raw.githubusercontent.com/tramsach/blockad/admin/malware
 
 # Title: Trạm Sách OTT
 # Update: 25 Oct 2022 10:00 UTC+7
 # Version: OTT 1
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
-# Filter link:
+# Filter link: https://raw.githubusercontent.com/tramsach/blockad/admin/ott
 
 # Title: Trạm Sách Block OTA
 # Update: 27 Apr 2022 23:00 UTC+7
 # Version: OTA Block Beta 1
 # Homepage: http://tramsach.com
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
 # NOTE: Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này.
-# Filter Link:

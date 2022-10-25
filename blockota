@@ -1,8 +1,9 @@
-# Title: Trạm Sách BlockAd - Block OTA
-# Last modified: 27 Apr 2022 23:00 UTC+7
-# Version: OTA Beta 1
+# Title: Trạm Sách Block OTA
+# Update: 27 Apr 2022 23:00 UTC+7
+# Version: OTA Block Beta 1
 # Homepage: http://tramsach.com
-# NOTE: Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
+# NOTE: Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này.
 
 # Apple
 0.0.0.0 appldnld.apple.com

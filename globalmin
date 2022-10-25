@@ -1,10 +1,11 @@
-# Title: Trạm Sách BlockAd - Global
-# Last modified: 27 Apr 2022 23:00 UTC+7
-# Version: GLmin Beta 1
-# Base on AdGuard and hostVN filter
+# Title: Trạm Sách Global Min
+# Update: 25 Oct 2022 10:00 UTC+7
+# Version: Global Min Beta 2
+# Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/globalmin
 
-# apple 
+# [apple] 
 0.0.0.0 advertising.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
@@ -15,7 +16,6 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com
-# iadsdk.apple.com 
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -24,7 +24,6 @@
 0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
-# iad.apple.com 
 0.0.0.0 apps.iad.apple.com
 0.0.0.0 blueprints.iad.apple.com
 0.0.0.0 ccportal.iad.apple.com
@@ -147,7 +146,6 @@
 0.0.0.0 www.googleadservices.com
 # analytics.google.com 
 0.0.0.0 analytics.google.com
-
 # google-analytics.com 
 0.0.0.0 click.google-analytics.com
 0.0.0.0 google-analytics.com
