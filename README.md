@@ -48,3 +48,8 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/blockota
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/internal
 ```
+
+- Worker tự tổng hợp và định dạng theo AdGuardHome.
+```
+https://aghlist.ntson.workers.dev
+```
