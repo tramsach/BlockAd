@@ -10356,3 +10356,4 @@
 ||www.taobao.com^$important
 ||www.baidu.com^$important
 ||www.qq.com^$important
+0.0.0.0 log.tailscale.io
