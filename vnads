@@ -1,6 +1,6 @@
 # Title: Trạm Sách VN Ads Servers
 # Update: 25 Oct 2022 10:00 UTC+7
-# Version: VN Ads Servers Beta 2
+# Version: v10.22
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
 # Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
@@ -446,6 +446,7 @@
 0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
+0.0.0.0 baomoi-static.zadn.vn
 #[zascdn.me]
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
