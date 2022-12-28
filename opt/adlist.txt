@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/tramsach/blockad/admin/blockzalo
+https://github.com/tramsach/BlockAd/blob/9cb50e7a35a2664a7207a0266980c471e82c98dc/opt/blockzalo.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
 https://v.firebog.net/hosts/Easylist.txt
