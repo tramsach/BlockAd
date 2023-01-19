@@ -111,14 +111,14 @@
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
-# [adservice.google.]
+# [adservice.google.com]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 adservice.google.com.tr
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.de
-#  googlesyndication.com 
+# googlesyndication.com 
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
