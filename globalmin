@@ -10357,3 +10357,5 @@
 ||www.baidu.com^$important
 ||www.qq.com^$important
 0.0.0.0 log.tailscale.io
+# Unshort
+0.0.0.0 igtayow.xyz
