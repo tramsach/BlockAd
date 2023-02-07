@@ -17,6 +17,8 @@
 # Local
 @@||analytics.google.com^$client=10.21.12.11
 @@||analytics.google.com^$client=10.21.12.11
+@@||analytics.google.com^$client=10.21.11.11
+@@||analytics.google.com^$client=10.21.11.11
 
 # Unblock zalo for 1mobile
 # 0.0.0.0 chat1-wpa.chat.zalo.me^$client=10.0.0.42
