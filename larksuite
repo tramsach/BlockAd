@@ -1,0 +1,36 @@
+# Title: Block Larksuite
+# Update: 25 Oct 2022 10:00 UTC+7
+# Version: v10.22
+# Please report any ads or problems on GitHub
+# Homepage: http://tramsach.com
+# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
+
+# [Larksuite Homepage]
+0.0.0.0 larksuite.com.edgekey.net
+0.0.0.0 larksuite.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 ibyteimg.com
+0.0.0.0 bytescm.com
+0.0.0.0 bytegoofy.com
+0.0.0.0 bytedapm.com
+# [Larksuite from Quantumult X]
+0.0.0.0 internal-api-security.larksuite.com
+0.0.0.0 mcs-bd-sg.larksuite.com
+0.0.0.0 internal-api-lark-api.larksuite.com
+0.0.0.0 lark-frontier.byteoversea.com
+0.0.0.0 open.larksuite.com
+0.0.0.0 ccm-frontier-sg.larksuite.com
+0.0.0.0 pan16.larksuitecdn.com
+0.0.0.0 applog-bd-sg.larksuite.com
+0.0.0.0 pg1sophui2x.larksuite.com
+0.0.0.0 device-bd-sg.larksuite.com
+0.0.0.0 device-bd.larksuite.com
+0.0.0.0 applink.larksuite.com
+0.0.0.0 api16-sgsaas1-mixed-sg.larksuite.com
+0.0.0.0 msg16-frontier-sg.larksuite.com
+0.0.0.0 s16-imfile-sg.feishucdn.com
+
+# [larksuitecdn.com]
+0.0.0.0 p16-hera-va.larksuitecdn.com
+0.0.0.0 sf16-va.larksuitecdn.com
+0.0.0.0 sf16-scmcdn2-va.larksuitecdn.com
