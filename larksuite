@@ -1,13 +1,9 @@
 # Title: Block Larksuite
-# Update: 25 Oct 2022 10:00 UTC+7
-# Version: v10.22
-# Please report any ads or problems on GitHub
-# Homepage: http://tramsach.com
-# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
 
 # [Larksuite Homepage]
 0.0.0.0 larksuite.com.edgekey.net
 0.0.0.0 larksuite.com
+0.0.0.0 www.larksuite.com
 0.0.0.0 ibytedtos.com
 0.0.0.0 ibyteimg.com
 0.0.0.0 bytescm.com
