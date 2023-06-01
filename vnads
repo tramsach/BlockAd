@@ -1,23 +1,11 @@
 # Title: Trạm Sách VN Ads Servers
-# Update: 25 Oct 2022 10:00 UTC+7
-# Version: v10.22
+# Update: 01 Jun 2023 10:00 UTC+7
+# Version: v23.06
 # Please report any ads or problems on GitHub
 # Homepage: http://tramsach.com
 # Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
 
-# [adtimaserver]
-0.0.0.0 adtimaserver.vn
-0.0.0.0 api.adtimaserver.vn
-0.0.0.0 log.adtimaserver.vn
-0.0.0.0 media.adtimaserver.vn
-0.0.0.0 media.org.adtimaserver.vn
-0.0.0.0 staging.api.adtimaserver.vn
-0.0.0.0 static.adtimaserver.vn
-0.0.0.0 static2.adtimaserver.vn
-0.0.0.0 stream.adtimaserver.vn
-0.0.0.0 stream.org.adtimaserver.vn
-0.0.0.0 web.api.adtimaserver.vn
-#[eclick]
+# [eclick]
 0.0.0.0 admin.iad.eclick.vn
 0.0.0.0 analytics.eclick.vn
 0.0.0.0 c.d.eclick.vn
@@ -60,7 +48,19 @@
 0.0.0.0 t.eclick.vn
 0.0.0.0 tracking.eclick.vn
 0.0.0.0 www.eclick.vn
-# admicro.vn 
+# [adtimaserver]
+0.0.0.0 adtimaserver.vn
+0.0.0.0 api.adtimaserver.vn
+0.0.0.0 log.adtimaserver.vn
+0.0.0.0 media.adtimaserver.vn
+0.0.0.0 media.org.adtimaserver.vn
+0.0.0.0 staging.api.adtimaserver.vn
+0.0.0.0 static.adtimaserver.vn
+0.0.0.0 static2.adtimaserver.vn
+0.0.0.0 stream.adtimaserver.vn
+0.0.0.0 stream.org.adtimaserver.vn
+0.0.0.0 web.api.adtimaserver.vn
+# [admicro.vn]
 0.0.0.0 adi.admicro.vn
 0.0.0.0 thstvv.com
 0.0.0.0 admatic.admicro.vn
@@ -1296,7 +1296,7 @@
 0.0.0.0 tracking.smartadnetwork.net
 0.0.0.0 www.smartadnetwork.net
 # metaconex.io 
-0.0.0.0 ads.metaconex.io
+
 0.0.0.0 metaconex.io
 0.0.0.0 pub.metaconex.io
 0.0.0.0 www.metaconex.io
@@ -1345,9 +1345,7 @@
 0.0.0.0 ezca.asia
 0.0.0.0 recommender.ezca.asia
 0.0.0.0 wss.ezca.asia
-#[ladipage.com]
-0.0.0.0 a.ladipage.com
-0.0.0.0 dns.ladipage.com
+
 #[genmonet.com]
 0.0.0.0 gcjs.genmonet.com
 0.0.0.0 genmonet.com
@@ -1374,17 +1372,7 @@
 0.0.0.0 affmates.com
 0.0.0.0 api.affmates.com
 0.0.0.0 storage.affmates.com
-#[vnpt]
-0.0.0.0 cjm.mytv.vn
-0.0.0.0 ipcc.mytv.com.vn
-0.0.0.0 ipcc.shop.vnpt.vn
-0.0.0.0 ipcc.vinaphone.com.vn
-0.0.0.0 ipcc.vnpt.com.vn
-#[vnptmedia.vn]
-0.0.0.0 cjm.vnptmedia.vn
-0.0.0.0 cjmgw.vnptmedia.vn
-0.0.0.0 ipcc-vnp1.vnptmedia.vn
-0.0.0.0 ipccegov.vnptmedia.vn
+
 #[mytvnet.vn]
 0.0.0.0 apilog.mytvnet.vn
 0.0.0.0 apilogduration.mytvnet.vn
@@ -1702,7 +1690,7 @@
 0.0.0.0 admin.voh.com.vn
 0.0.0.0 aff.atp.vn
 0.0.0.0 affiliate.chiaki.vn
-0.0.0.0 ai.thanhnien.vn
+
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytic.baodantoc.vn
 0.0.0.0 analytic.vnanet.vn
@@ -1959,7 +1947,7 @@
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
-0.0.0.0 trending.vn
+
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
@@ -1975,76 +1963,7 @@
 0.0.0.0 zigzag.vn
 0.0.0.0 zlog.zingmp3.vn
 # Block scam
-0.0.0.0 247vi-bank.com
-0.0.0.0 xmdforex.com
-0.0.0.0 phohen.com
-0.0.0.0 atspace.tv
-0.0.0.0 bloodleian.club
-0.0.0.0 bluvenie.com
-0.0.0.0 campxanh.info
-0.0.0.0 celerantatters.com
-0.0.0.0 garenalqm.com
-0.0.0.0 cettiarl.com
-0.0.0.0 code-garena-vn.com
-0.0.0.0 code-lienquan-vn.com
-0.0.0.0 drakeesh.com
-0.0.0.0 eventlqvn.com
-0.0.0.0 facebookz.co
-0.0.0.0 ff-member-ganena.com
-0.0.0.0 ff-member-gazeza.com
-0.0.0.0 ff-members-garena.vn
-0.0.0.0 ff-membership-garena.com
-0.0.0.0 ff-membersship-garrena.com
-0.0.0.0 ff-memnber-garena.com
-0.0.0.0 ff-menber-garena.vn
-0.0.0.0 ff.garena.memmbershipp.com
-0.0.0.0 ff.member.garenae.vn
-0.0.0.0 freefire-membershipvn-garena.com
-0.0.0.0 gaerena.vn
-0.0.0.0 garaena.vn
-0.0.0.0 garane.vn
-0.0.0.0 garean.vn
-0.0.0.0 gareena.vn
-0.0.0.0 garena-members.com
-0.0.0.0 garena.fan
-0.0.0.0 garena.mobi
-0.0.0.0 garenaa.vn
-0.0.0.0 garenaj.vn
-0.0.0.0 garenalqm.com
-0.0.0.0 garera.vn
-0.0.0.0 garrena.vn
-0.0.0.0 giftcode-lienquanmobile-vn.com
-0.0.0.0 giftcode-mobilelienquan.com
-0.0.0.0 https-apple.com
-0.0.0.0 irduwhojas.ga
-0.0.0.0 kaurroot.com
-0.0.0.0 larpollicwilli.club
-0.0.0.0 lib1.biz
-0.0.0.0 lienquan-garena-giftcode.com
-0.0.0.0 lienquanmobilequatang.com
-0.0.0.0 lmht-membership.com
-0.0.0.0 member-gaarena.com
-0.0.0.0 member-garena.vn
-0.0.0.0 memberr-garenaa.com
-0.0.0.0 membershipsgarenavn-ff.com
-0.0.0.0 menberships-ff-garrena.com
-0.0.0.0 news-good.net
-0.0.0.0 nhanquaffob31.com
-0.0.0.0 qualienquan.vn
-0.0.0.0 rituationscardb.info
-0.0.0.0 sacchaeleduk.com
-0.0.0.0 simpliftsbefore.info
-0.0.0.0 smilitygorb.club
-0.0.0.0 support-maps.live
-0.0.0.0 tammenaa.com
-0.0.0.0 thegioididong.me
-0.0.0.0 thseaeing.fun
-0.0.0.0 ucesreferre.club
-0.0.0.0 vietnammoi.biz
-0.0.0.0 vongquay-pubgmobilevn-zing.com
-0.0.0.0 vongquaymienphi.net
-0.0.0.0 www.facebookz.co
-0.0.0.0 www.vongquaymienphi.net
+
 # 123c.vn
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn

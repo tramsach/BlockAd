@@ -1,6 +1,6 @@
-# Title: Block Larksuite
+#Title: Block Larksuite
 
-# [Larksuite Homepage]
+#[Larksuite Homepage]
 0.0.0.0 larksuite.com.edgekey.net
 ||larksuite.com^$important
 ||www.larksuite.com^$important
