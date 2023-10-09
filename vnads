@@ -418,6 +418,8 @@
 0.0.0.0 button-share.zalo.me
 0.0.0.0 page.widget.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 stats.hc.score.dmp.zalo.me
+0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 widget.chat.zalo.me
 #[zaloapp.com]
 0.0.0.0 ads.zaloapp.com
@@ -432,6 +434,14 @@
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
+0.0.0.0 stats.dev.zaloapp.com
+0.0.0.0 stats.stg.zaloapp.com
+#[ads.zaloapp.com]
+0.0.0.0 ads.zaloapp.com
+0.0.0.0 jr.ads.zaloapp.com
+0.0.0.0 media-ads.zaloapp.com
+0.0.0.0 photo-ads.zaloapp.com
+0.0.0.0 static-ads.zaloapp.com
 #[zadn.vn]
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
@@ -439,6 +449,7 @@
 0.0.0.0 adtima-static-td.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtima-video.zadn.vn
+0.0.0.0 mda.zadn.vn
 0.0.0.0 mplaylist-ads.zadn.vn
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
@@ -448,11 +459,34 @@
 0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 baomoi-static.zadn.vn
 #[zascdn.me]
+0.0.0.0 ads.zascdn.me
 0.0.0.0 adtima-common.zascdn.me
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 adtima-video.zascdn.me
 0.0.0.0 mplaylist-ads.zascdn.me
+#[zdn.vn]
+0.0.0.0 stc-support-app-brand.zdn.vn
+0.0.0.0 zaloads-480.zdn.vn
+0.0.0.0 zplayer-trk.zdn.vn
+#[log-*.zadn.vn]
+0.0.0.0 log-anninhthudo.zadn.vn
+0.0.0.0 log-baobackan.zadn.vn
+0.0.0.0 log-baonghean.zadn.vn
+0.0.0.0 log-baophapluat.zadn.vn
+0.0.0.0 log-bizlive.zadn.vn
+0.0.0.0 log-giacngo.zadn.vn
+0.0.0.0 log-giaoduc.zadn.vn
+0.0.0.0 log-giaoducthoidai.zadn.vn
+0.0.0.0 log-kienthucnet.zadn.vn
+0.0.0.0 log-nhandan.zadn.vn
+0.0.0.0 log-plo.zadn.vn
+0.0.0.0 log-sggp.zadn.vn
+0.0.0.0 log-thanhnien.zadn.vn
+0.0.0.0 log-tienphong.zadn.vn
+0.0.0.0 log-tinnhanhchungkhoan.zadn.vn
+0.0.0.0 log-vietnamdaily.zadn.vn
+0.0.0.0 log-vovworld.zadn.vn
 #[sdk.zadn.vn]
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 log.sdk.zadn.vn
@@ -1472,6 +1506,10 @@
 0.0.0.0 m.zedcdn.me
 0.0.0.0 me.zedcdn.me
 0.0.0.0 mme.zedcdn.me
+#[vipads.cc]
+0.0.0.0 vipads.cc
+0.0.0.0 pv.vipads.cc
+0.0.0.0 www.vipads.cc
 #[aanetwork.vn]
 0.0.0.0 aanetwork.vn
 0.0.0.0 cdn.aanetwork.vn
@@ -1499,6 +1537,7 @@
 0.0.0.0 adx.hoanggia.net
 0.0.0.0 adx.hoanggia.net.vn
 0.0.0.0 banhtv.org
+0.0.0.0 ad.vkoolzzz.net
 0.0.0.0 slm.dantri.com.vn
 0.0.0.0 banner.uto.vn
 0.0.0.0 cdn2.cache.vn
