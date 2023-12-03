@@ -1,7 +1,3 @@
-# Title: Trạm Sách Block Ads
-# Last modified: 27 Apr 2022 23:00 UTC+7
-# Version: ott Beta 1 (internal only)
-# Homepage: http://tramsach.com
 
 # Zalo
 0.0.0.0 qos-talk.123c.vn^$client=192.168.1.2
