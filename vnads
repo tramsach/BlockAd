@@ -21550,6 +21550,11 @@
 0.0.0.0 websdk.appsflyer.com
 # --- Misc ---
 0.0.0.0 analytics.dttt.vn
+# --- Block macOS app cracked ---
+0.0.0.0 downiestatistics.com
+0.0.0.0 analytics36.techsmith.com
+0.0.0.0 api.simplify3d.com
+0.0.0.0 check.bombich.com
 # CNAME Popup
 #[cds.h5z9g8y6.hwcdn.net]
 0.0.0.0 js.wpnjs.com
