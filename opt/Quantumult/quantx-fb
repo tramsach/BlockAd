@@ -1,0 +1,2 @@
+HOST-SUFFIX,connect.facebook.net,REJECT
+USER-AGENT,FBiOSSDK*,REJECT

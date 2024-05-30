@@ -1,0 +1,136 @@
+# Title: Block Zalo Apps
+# Last modified: 28 Dec 2022 10:00 UTC+7
+# Version: v12.22
+# Homepage: http://tramsach.com
+# Note: Block Zalo app
+
+# Primary Domains
+0.0.0.0 zadn.vn
+0.0.0.0 zalo.me
+0.0.0.0 zaloapp.com
+0.0.0.0 zaloapps.com
+
+# Zalo.me
+0.0.0.0 chat1-wpa.chat.zalo.me
+0.0.0.0 chat2-wpa.chat.zalo.me
+0.0.0.0 chat3-wpa.chat.zalo.me
+0.0.0.0 chat4-wpa.chat.zalo.me
+0.0.0.0 reaction.chat.zalo.me
+0.0.0.0 quickmessage.chat.zalo.me
+0.0.0.0 p3-ctl.chat.zalo.me
+0.0.0.0 p6-ctl.chat.zalo.me
+0.0.0.0 convers-wpa.chat.zalo.me
+0.0.0.0 p4-msg.chat.zalo.me
+0.0.0.0 wpa.chat.zalo.me
+0.0.0.0 sp.zalo.me
+0.0.0.0 friend-wpa.chat.zalo.me
+0.0.0.0 convers-wpa.chat.zalo.me
+0.0.0.0 chat.zalo.me
+0.0.0.0 group-wpa.chat.zalo.me
+0.0.0.0 profile-wpa.chat.zalo.me
+0.0.0.0 wpa.chat.zalo.me
+0.0.0.0 sticker-wpa.chat.zalo.me
+0.0.0.0 za.zalo.me
+0.0.0.0 dual-qos.chat.zalo.me
+0.0.0.0 jr.chat.zalo.me
+0.0.0.0 friend-wpa.chat.zalo.me
+0.0.0.0 chat1-wpa.chat.zalo.me
+0.0.0.0 p9-ctl.chat.zalo.me
+0.0.0.0 chat3-wpa.chat.zalo.me
+0.0.0.0 chat2-wpa.chat.zalo.me
+0.0.0.0 p3-ctl.chat.zalo.me
+0.0.0.0 sp.zalo.me
+0.0.0.0 p4-ctl.chat.zalo.me
+0.0.0.0 p5-ctl.chat.zalo.me
+0.0.0.0 p6-ctl.chat.zalo.me
+0.0.0.0 p8-ctl.chat.zalo.me
+0.0.0.0 p5-msg.chat.zalo.me
+0.0.0.0 p4-msg.chat.zalo.me
+
+# Zaloapp.com
+0.0.0.0 bkmsg-talk.zaloapp.com
+0.0.0.0 setting.api.zaloapp.com
+0.0.0.0 talk-m.zaloapp.com
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 centralized.zaloapp.com
+0.0.0.0 setting.api.zaloapp.com
+0.0.0.0 broadcast.api.zaloapp.com
+0.0.0.0 stickers.zaloapp.com
+0.0.0.0 getpage.api.zaloapp.com
+0.0.0.0 discovery.api.zaloapp.com
+0.0.0.0 calendar.api.zaloapp.com
+0.0.0.0 register.zaloapp.com
+0.0.0.0 trk-pcweb.api.zaloapp.com
+0.0.0.0 tapi.api.zaloapp.com
+0.0.0.0 api-talk.api.zaloapp.com
+0.0.0.0 apns-failover.zaloapp.com
+0.0.0.0 p4-ctl-chat.zaloapp.com
+0.0.0.0 wpa.zaloapp.com
+0.0.0.0 p3-ctl-chat.zaloapp.com
+0.0.0.0 talk-m.zaloapp.com
+0.0.0.0 chat1-wpa.api.zaloapp.com
+0.0.0.0 stc.za.zaloapp.com
+0.0.0.0 profile-wpa.zaloapp.com
+
+# Zadn.vn
+0.0.0.0 zfeed-video-mcloud-bf-s13.zadn.vn
+0.0.0.0 res-zalo.zadn.vn
+0.0.0.0 s160-ava-talk.zadn.vn
+0.0.0.0 res-zalo.zadn.vn
+0.0.0.0 stc-sp.zadn.vn
+0.0.0.0 zalo-chat-static.zadn.vn
+0.0.0.0 s120-ava-talk.zadn.vn
+0.0.0.0 zalo-api.zadn.vn
+0.0.0.0 ava-grp-talk.zadn.vn
+0.0.0.0 s160-ava-talk.zadn.vn
+0.0.0.0 photo-link-talk.zadn.vn
+0.0.0.0 s75-ava-talk.zadn.vn
+0.0.0.0 weather2-zalo.zadn.vn
+0.0.0.0 znews-mcloud-bf-s2.zadn.vn
+0.0.0.0 zalo-effect.zadn.vn
+0.0.0.0 cover-talk.zadn.vn
+0.0.0.0 zstory-video-mcloud-lpl-s15.zadn.vn
+0.0.0.0 zpsocial-f49-w800.zadn.vn
+0.0.0.0 zpsocial-f49-org.zadn.vn
+0.0.0.0 zpsocial-f50-w800.zadn.vn
+0.0.0.0 zpsocial-f48-org.zadn.vn
+0.0.0.0 zpsocial-f48-w240.zadn.vn
+0.0.0.0 zpsocial-f46-w800.zadn.vn
+0.0.0.0 zpsocial-f50-w240.zadn.vn
+0.0.0.0 zpsocial-f51-w800.zadn.vn
+0.0.0.0 zpsocial-f50-w480.zadn.vn
+0.0.0.0 zpsocial-f46-org.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-10.zadn.vn
+0.0.0.0 zinstant.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-pt-5.zadn.vn
+0.0.0.0 res-update-pc.zadn.vn
+0.0.0.0 zpsocial-f45-org.zadn.vn
+0.0.0.0 zpsocial-f35-w800.zadn.vn
+0.0.0.0 zalo-article-photo.zadn.vn
+0.0.0.0 zpsocial-f47-w240.zadn.vn
+0.0.0.0 zstory-video-zs3-whch-s15-te-vnso-zn-8.zadn.vn
+0.0.0.0 zfeed-video-mcloud-bf-s13.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-pt-4.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-vn-3.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-1.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-11.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-3.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-6.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-zn-8.zadn.vn
+0.0.0.0 baomoi-static.zadn.vn
+0.0.0.0 res-update-pc-te-vnso-pt-4.zadn.vn
+0.0.0.0 res-update-pc-te-vnso-pt-5.zadn.vn
+0.0.0.0 res-update-pc-te-vnso-pt-8.zadn.vn
+0.0.0.0 zstory-video-mcloud-lpl-s15-te-vnso-zn-8.zadn.vn
+0.0.0.0 zpsocial-f51-w240.zadn.vn
+0.0.0.0 res-update-pc-te-vnno-pt-1.zadn.vn
+0.0.0.0 zpsocial-f48-w800.zadn.vn
+
+# Zapps.vn
+0.0.0.0 lp-zm.zapps.vn
+0.0.0.0 rd.zapps.vn
+
+# unknown
+0.0.0.0 qos-talk.123c.vn
+||qos-talk.123c.vn^$client=10.0.0.7
+
