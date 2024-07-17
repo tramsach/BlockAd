@@ -13253,6 +13253,8 @@
 # [shopee.vn]
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 log-collector.shopee.vn
+0.0.0.0 ubta.tracking.shopee.vn
+0.0.0.0 apm.tracking.shopee.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
