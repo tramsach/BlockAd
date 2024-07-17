@@ -1,11 +1,10 @@
-# Title: Trạm Sách VN Ads Servers
-# Update: 29 May 2024 10:00 UTC+7
-# Version: v24.05
-# Please report any ads or problems on GitHub
-# Homepage: http://tramsach.com
-# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
+# Title: Trạm Sách Collector VN Ads Servers
+# Update: 17 June 2024 UTC+7
+# Version: v24.07
+# Filter for Cloudflare DNS 
+# Contact me: me@nguyenson.dev
 
-# [apple]
+# [apple.com]
 0.0.0.0 advertising.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
