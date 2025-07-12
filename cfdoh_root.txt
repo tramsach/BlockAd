@@ -1,0 +1,45 @@
+# Title: Trạm Sách Collector VN Ads Servers
+# Update: 12 Jul 2025 UTC+7
+# Version: v25.07
+# Filter for Cloudflare DNS 
+# Contact me: me@nguyenson.dev
+# Vietnamese List Only 
+
+#[anti-brainrot]
+||tiktok.com^
+
+#[coccoc.com]
+0.0.0.0 banners-gallery.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
+0.0.0.0 cdn.comedia.coccoc.com
+0.0.0.0 metrics.coccoc.com
+0.0.0.0 pixel.coccoc.com
+0.0.0.0 qc-static.coccoc.com
+0.0.0.0 shop-cdn.coccoc.com
+0.0.0.0 qc.coccoc.com
+0.0.0.0 qccoccocmedia.vn
+
+# root domain VN Only
+0.0.0.0 adtimaserver.vn
+0.0.0.0 eclick.vn
+0.0.0.0 admicro.vn
+0.0.0.0 vcmedia.vn
+0.0.0.0 novanet.vn
+0.0.0.0 novaonads.com
+0.0.0.0 novaon.asia
+0.0.0.0 novaonx.com
+0.0.0.0 itim.vn
+0.0.0.0 lavanetwork.net
+0.0.0.0 www.lavanetwork.net
+0.0.0.0 polyad.net
+0.0.0.0 ambientplatform.vn
+0.0.0.0 gammaplatform.com
+0.0.0.0 gammassp.com
+0.0.0.0 www.gammassp.com
+0.0.0.0 ambient-platform.com
+0.0.0.0 ambientdsp.com
+0.0.0.0 ants.vn
+0.0.0.0 anthill.vn
+0.0.0.0 www.anthill.vn
+0.0.0.0 adtima.vn
+0.0.0.0 www.adtima.vn
