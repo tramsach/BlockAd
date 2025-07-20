@@ -950,24 +950,8 @@
 0.0.0.0 ad-us.24hstatic.com
 0.0.0.0 eva-ad.24hstatic.com
 0.0.0.0 nv-ad.24hstatic.com
-#[donglogs.com]
-0.0.0.0 analytics.donglogs.com
-0.0.0.0 api.donglogs.com
-0.0.0.0 donglogs.com
-0.0.0.0 rec.donglogs.com
-0.0.0.0 scripts.donglogs.com
-0.0.0.0 www.donglogs.com
-#[nanda.vn]
-0.0.0.0 ai.nanda.vn
-0.0.0.0 analytics.nanda.vn
-0.0.0.0 cdn.nanda.vn
-0.0.0.0 lg.nanda.vn
-0.0.0.0 nanda.vn
-0.0.0.0 static.nanda.vn
-#[yeah1publishing.com]
-0.0.0.0 mega1app.yeah1publishing.com
-0.0.0.0 www.yeah1publishing.com
-0.0.0.0 yeah1publishing.com
+
+
 #[proadscdn.com]
 0.0.0.0 adx.proadscdn.com
 0.0.0.0 cdn.proadscdn.com
@@ -978,10 +962,11 @@
 0.0.0.0 proadscdn.com
 0.0.0.0 script.proadscdn.com
 0.0.0.0 www.proadscdn.com
+
 #[hotngay.vn]
 0.0.0.0 game-static.hotngay.vn
 0.0.0.0 game.hotngay.vn
-0.0.0.0 hotngay.vn
+0.0.0.0 
 #[atdnetwork.com]
 0.0.0.0 adserver.atdnetwork.com
 0.0.0.0 atdnetwork.com
@@ -1084,25 +1069,9 @@
 0.0.0.0 adx.vn
 0.0.0.0 mon.adx.vn
 #[matomo.*.vn]
-0.0.0.0 matomo.ecoe.vn
-0.0.0.0 matomo.hicity.vn
-0.0.0.0 matomo.shac.vn
-0.0.0.0 matomo.vepg.vn
-0.0.0.0 matomo.vietlottsms.vn
+
 #[mautic.*.vn]
-0.0.0.0 mautic.casso.vn
-0.0.0.0 mautic.chetaomaysaigon.vn
-0.0.0.0 mautic.cloudify.vn
-0.0.0.0 mautic.easygroup.vn
-0.0.0.0 mautic.educa.vn
-0.0.0.0 mautic.educe.vn
-0.0.0.0 mautic.haproinfo.vn
-0.0.0.0 mautic.hicity.vn
-0.0.0.0 mautic.icsc.vn
-0.0.0.0 mautic.jagodo.vn
-0.0.0.0 mautic.serverhub.vn
-0.0.0.0 mautic.sts.vn
-0.0.0.0 mautic.vmax.vn
+
 #[piwik.*.vn]
 0.0.0.0 piwik.rta.vn
 #[accesstrade.vn]
@@ -1162,9 +1131,7 @@
 0.0.0.0 dmp.myad.vn
 0.0.0.0 www.myad.vn
 #[customers.fptad.com]
-0.0.0.0 customers.fptad.com
-0.0.0.0 img.customers.fptad.com
-0.0.0.0 static.customers.fptad.com
+
 #[phukienthoitranggiare.com]
 0.0.0.0 asg.phukienthoitranggiare.com
 0.0.0.0 phukienthoitranggiare.com
@@ -1310,31 +1277,14 @@
 0.0.0.0 delivery.akadigital.vn
 0.0.0.0 pub.akadigital.vn
 #[vnecdn.net]
-0.0.0.0 adp.vnecdn.net
-0.0.0.0 la.vnecdn.net
-0.0.0.0 la2.vnecdn.net
-0.0.0.0 la3.vnecdn.net
+
 #[imacdn.com]
 0.0.0.0 ff.imacdn.com
 0.0.0.0 sponsor.imacdn.com
 #[quangcao-*.epicdn.me]
 0.0.0.0 quangcao-thanhnien.epicdn.me
 #[log-*.epicdn.me]
-0.0.0.0 log-baodauthau.epicdn.me
-0.0.0.0 log-baogialai.epicdn.me
-0.0.0.0 log-baolaocai.epicdn.me
-0.0.0.0 log-dttc-sggp.epicdn.me
-0.0.0.0 log-en-nhandan.epicdn.me
-0.0.0.0 log-en-sggp.epicdn.me
-0.0.0.0 log-giaoduc.epicdn.me
-0.0.0.0 log-giaoducthoidai.epicdn.me
-0.0.0.0 log-kienthucnet.epicdn.me
-0.0.0.0 log-mekongasean.epicdn.me
-0.0.0.0 log-nhandan.epicdn.me
-0.0.0.0 log-thanhnien.epicdn.me
-0.0.0.0 log-thuonggiaonline.epicdn.me
-0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
-0.0.0.0 logv2-kienthuc.epicdn.me
+
 #[thanhnien.vn]
 0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ai.thanhnien.vn
@@ -1418,10 +1368,7 @@
 0.0.0.0 vdacdn1.viettel.vn
 0.0.0.0 vdacdn2.viettel.vn
 #[vda.viettel.vn]
-0.0.0.0 cdn1.vda.viettel.vn
-0.0.0.0 delivery.vda.viettel.vn
-0.0.0.0 log.vda.viettel.vn
-0.0.0.0 vda.viettel.vn
+
 #[tv360.vn]
 0.0.0.0 log.tv360.vn
 0.0.0.0 pubads-wiinvent.tv360.vn
