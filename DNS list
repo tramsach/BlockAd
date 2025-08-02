@@ -39,6 +39,10 @@ tls://security.cloudflare-dns.com
 1.0.0.3
 https://family.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
+## Tunnel
+172.64.36.1
+172.64.36.2
+
 
 # Google DNS
 8.8.8.8

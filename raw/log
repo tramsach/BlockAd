@@ -10,37 +10,36 @@
 0.0.0.0 stat.ifunboxmac.com
 
 # Local
-@@||analytics.google.com^$client=10.21.12.8
-@@||analytics.google.com^$client=10.21.12.12
-
+||analytics.google.com^
+||analytics.google.com^
 
 # Unblock zalo for 1mobile
-# 0.0.0.0 chat1-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 chat2-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 chat3-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 reaction.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 quickmessage.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 p3-ctl.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 p6-ctl.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 res-zalo.zadn.vn^$client=10.0.0.42
-# 0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 p4-msg.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 sp.zalo.me^$client=10.0.0.42
-# 0.0.0.0 zaloapp.com^$client=10.0.0.42
-# 0.0.0.0 friend-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 convers-wpa.chat.zalo.me^$client=10.0.0.42
-# 0.0.0.0 s160-ava-talk.zadn.vn^$client=10.0.0.42
-# 0.0.0.0 lp-zm.zapps.vn^$client=10.0.0.42
-# 0.0.0.0 zalo.me^$client=10.0.0.42
-# 0.0.0.0 bkmsg-talk.zaloapp.com^$client=10.0.0.42
-# 0.0.0.0 setting.api.zaloapp.com^$client=10.0.0.42
-# 0.0.0.0 rd.zapps.vn^$client=10.0.0.42
-# 0.0.0.0 talk-m.zaloapp.com^$client=10.0.0.42
+# 0.0.0.0 chat1-wpa.chat.zalo.me^
+# 0.0.0.0 chat2-wpa.chat.zalo.me^
+# 0.0.0.0 chat3-wpa.chat.zalo.me^
+# 0.0.0.0 reaction.chat.zalo.me^
+# 0.0.0.0 quickmessage.chat.zalo.me^
+# 0.0.0.0 p3-ctl.chat.zalo.me^
+# 0.0.0.0 p6-ctl.chat.zalo.me^
+# 0.0.0.0 res-zalo.zadn.vn^
+# 0.0.0.0 convers-wpa.chat.zalo.me^
+# 0.0.0.0 p4-msg.chat.zalo.me^
+# 0.0.0.0 wpa.chat.zalo.me^
+# 0.0.0.0 sp.zalo.me^
+# 0.0.0.0 zaloapp.com^
+# 0.0.0.0 friend-wpa.chat.zalo.me^
+# 0.0.0.0 convers-wpa.chat.zalo.me^
+# 0.0.0.0 s160-ava-talk.zadn.vn^
+# 0.0.0.0 lp-zm.zapps.vn^
+# 0.0.0.0 zalo.me^
+# 0.0.0.0 bkmsg-talk.zaloapp.com^
+# 0.0.0.0 setting.api.zaloapp.com^
+# 0.0.0.0 rd.zapps.vn^
+# 0.0.0.0 talk-m.zaloapp.com^
 
 #[Larksuite Homepage]
 0.0.0.0 larksuite.com.edgekey.net
-||larksuite.com^$important
+||larksuite.com^
 ||www.larksuite.com^$important
 ||ibytedtos.com^$important
 0.0.0.0 ibyteimg.com
@@ -56,7 +55,7 @@
 0.0.0.0 ccm-frontier-sg.larksuite.com
 0.0.0.0 pan16.larksuitecdn.com
 0.0.0.0 applog-bd-sg.larksuite.com
-||applog-bd.larksuite.com^$important
+0.0.0.0 applog-bd.larksuite.com
 0.0.0.0 pg1sophui2x.larksuite.com
 0.0.0.0 device-bd-sg.larksuite.com
 0.0.0.0 device-bd.larksuite.com
