@@ -10,4 +10,3 @@
 0.0.0.0 centralized.zaloapp.com
 
 
-0.0.0.0 ads-cdn.fptplay.net
