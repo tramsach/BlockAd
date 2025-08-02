@@ -7,6 +7,7 @@
 
 # anti-brainrot
 ||tiktok.com^
+
 # VNG Groups
 # Zadn.vn
 ||adtima-common.zadn.vn^
@@ -64,10 +65,9 @@
 ||wg.zaloapp.com^
 ||ads.zaloapp.com^
 # Zalo.me
+||ads.zalo.me^
 ||ads-analytics.zalo.me^
 ||ads-platform.zalo.me^
-||ads.zalo.me^
-||ads.platform.zalo.me^
 ||api.widget.zalo.me^
 ||button-call.zalo.me^
 ||button-follow.zalo.me^
@@ -80,6 +80,10 @@
 ||page.widget.zalo.me^
 ||widget.chat.zalo.me^
 ||stats.lab.zalo.ai^
+||za.zalo.me^
+# Zalopay
+||opentracking.zalopay.vn^
+||s3-advertising.zalopay.vn^
 # Zing.vn
 ||ad.zing.vn^
 ||adstracking.apps.zing.vn^
@@ -99,6 +103,9 @@
 ||brand.zing.vn^
 ||log.zingnews.vn^
 ||log.znews.vn^
+||zingtraffic.com^
+||telemetry.dataplatform.zing.coach^
+||zingelfeelies.digital^
 # Zingmp3.vn
 ||zlog.zingmp3.vn^
 ||za.zingmp3.vn^
@@ -122,6 +129,8 @@
 ||qc.coccoc.vn^
 ||pixel.coccoc.com^
 ||shop-cdn.coccoc.com^
+||opencoccoc.com^
+||qccoccocmedia.vn^
 # Zingplay.com
 ||trackingbr.zingplay.com^
 ||trackingin.zingplay.com^
@@ -135,20 +144,24 @@
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||cdn-bongdadem-net.cdn.ampproject.org^
 ||anymind360-com.cdn.ampproject.org^
+
 # botbanhang.vn
 ||ads.botbanhang.vn^
 ||chatbox-static.botbanhang.vn^
 ||chatbox-tracking.botbanhang.vn^
 ||chatbox-widget.botbanhang.vn^
+
 # thanhnien.vn
 ||ads.thanhnien.vn^
 ||ai.thanhnien.vn^
 ||log.thanhnien.vn^
 ||quangcao.thanhnien.vn^
 ||fzip.thanhnien.vn^
+
 # ultraviewer.net
 ||ads.ultraviewer.net^
 ||qc.ultraviewer.net^
+
 # VCT
 ||ads.vtc.vn^
 ||delivery.vtc.vn^
@@ -157,19 +170,23 @@
 ||delivery.vtcnew.com.vn^
 ||track.vtcnews.vn^
 ||delivery.vtcnews.vn^
+
 # VTV
 ||st-a.vtvdigital.vn^
 ||a.vtvdigital.vn^
+
 # vnncdn.net
 ||tracking.vnncdn.net^
 ||tracking2.vnncdn.net^
 ||tracking3.vnncdn.net^
 ||analytics.vnncdn.net^
+
 # adtima.vn
 ||adtima.vn^
 ||adtima.net.vn^
 ||adtima.org^
 ||adtimaserver.vn^
+
 # 24hstatic.com
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
@@ -178,12 +195,14 @@
 ||nv-ad.24hstatic.com^
 ||counter.24h.com.vn^
 ||thongke.24h.com.vn^
+
 # accesstrade.vn
 ||ad.accesstrade.vn^
 ||partner.accesstrade.vn^
 ||service-api.accesstrade.vn^
 ||static.accesstrade.vn^
 ||track.accesstrade.vn^
+
 # vnecdn
 ||adp.vnecdn.net^
 ||la.vnecdn.net^
@@ -194,12 +213,15 @@
 ||dt.vnecdn.com^
 ||go.vnecdn.com^
 ||vnecdn.net^
+
 # shopee.vn
 ||userstats.shopee.vn^
 ||log-collector.shopee.vn^
+
 # hubs.vn
 ||ads-admin.hubs.vn^
 ||tracking.hubs.vn^
+
 # subiz.com
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -214,6 +236,7 @@
 ||widgetv4.subiz.com^
 ||vcdn.subiz-cdn.com^
 ||file-subiz.com^
+
 # hara
 ||stats.hara.vn^
 ||assets.harafunnel.com^
@@ -226,13 +249,16 @@
 ||google-ads.hara.vn^
 ||tiktok-ads.hara.vn^
 ||facebook-ads.hara.vn^
+
 # NCT
 ||api.nas.nct.vn^
 ||apinas.nct.vn^
+
 # Zedcnd
 ||mme.zedcdn.me^
 ||me.zedcdn.me^
 ||m.zedcdn.me^
+
 # vietnamplus
 ||en-log.vietnamplus.vn^
 ||es-log.vietnamplus.vn^
@@ -245,17 +271,20 @@
 ||logru.vietnamplus.vn^
 ||ru-log.vietnamplus.vn^
 ||zh-log.vietnamplus.vn^
+
 # vnexpress
 ||logperf.vnexpress.net^
 ||elogs.vnexpress.net^
 ||s-logperf.vnexpress.net^
 ||tracking-amp.vnexpress.net^
+
 # aiservice.vn
 ||js.aiservice.vn^
 ||lio.aiservice.vn^
 ||rec.aiservice.vn^
 ||nspapi.aiservice.vn^
 ||boxpr.aiservice.vn^
+
 # Sapoapps
 ||bwstatistics.sapoapps.vn^
 ||blogstatistics.sapoapps.vn^
@@ -488,7 +517,6 @@
 ||oncustomer.asia^
 ||onfluencer.net^
 ||onmarketer.net^
-||opencoccoc.com^
 ||phanquang.vn^
 ||philacct.com^
 ||phukienthoitranggiare.com^

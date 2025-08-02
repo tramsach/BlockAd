@@ -1,15 +1,3 @@
-[Adblock Plus]
-! Title: HaGeZi's Pro mini DNS/Browser Blocklist
-! Description: Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Expires: 1 day
-! Last modified: 31 Jul 2025 07:35 UTC
-! Version: 2025.0731.0735.08
-! Syntax: AdBlock
-! Number of entries: 101554 || https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.mini.txt
-!
 ||00000qpqp00000.com^
 ||umami.000315.xyz^
 ||000free.us^

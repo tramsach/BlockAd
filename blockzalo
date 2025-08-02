@@ -125,27 +125,28 @@
 0.0.0.0 zpsocial-f51-w240.zadn.vn
 0.0.0.0 res-update-pc-te-vnno-pt-1.zadn.vn
 0.0.0.0 zpsocial-f48-w800.zadn.vn
-||adtima-common.zadn.vn^
-||adtima-static-td.zadn.vn^
-||adtima-media-td.zadn.vn^
-||adtima-media.zadn.vn^
-||adtima-video.zadn.vn^
-||adtima-static.zadn.vn^
-||zalo-ads-240-td.zadn.vn^
-||zalo-ads-240.zadn.vn^
-||zalo-ads-480-td.zadn.vn^
-||zalo-ads-480.zadn.vn^
-||zalo-ads-td.zadn.vn^
-||zalo-ads.zadn.vn^
-||mda.zadn.vn^
-||log-*.zadn.vn^
-||mplaylist-ads.zadn.vn^
-||sdk.zadn.vn^
+0.0.0.0 adtima-common.zadn.vn
+0.0.0.0 adtima-static-td.zadn.vn
+0.0.0.0 adtima-media-td.zadn.vn
+0.0.0.0 adtima-media.zadn.vn
+0.0.0.0 adtima-video.zadn.vn
+0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 zalo-ads-240-td.zadn.vn
+0.0.0.0 zalo-ads-240.zadn.vn
+0.0.0.0 zalo-ads-480-td.zadn.vn
+0.0.0.0 zalo-ads-480.zadn.vn
+0.0.0.0 zalo-ads-td.zadn.vn
+0.0.0.0 zalo-ads.zadn.vn
+0.0.0.0 mda.zadn.vn
+0.0.0.0 log-*.zadn.vn
+0.0.0.0 mplaylist-ads.zadn.vn
+0.0.0.0 sdk.zadn.vn
+
 # Zapps.vn
 0.0.0.0 lp-zm.zapps.vn
 0.0.0.0 rd.zapps.vn
 
 # unknown
 0.0.0.0 qos-talk.123c.vn
-||qos-talk.123c.vn^$client=10.0.0.7
+
 
