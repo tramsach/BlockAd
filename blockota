@@ -23,3 +23,7 @@
 0.0.0.0 ocsp2.apple.com
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 ocsp2.g.aaplimg.com
+# MDM Block
+0.0.0.0 mdmenrollment.apple.com
+0.0.0.0 profiles.apple.com
+0.0.0.0 deviceenrollment.apple.com

@@ -3,7 +3,7 @@
 # Version: v25.07
 # Filter for Cloudflare DNS 
 # Contact me: me@nguyenson.dev
-# Vietnamese List Only 
+# Root Vietnamese List Only 
 
 # anti-brainrot
 ||tiktok.com^
