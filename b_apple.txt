@@ -1,0 +1,30 @@
+# Title: Trạm Sách Block Apple Update
+# Update: 23 Feb 2025 23:00 UTC+7
+# Version: OTA Block Beta 1
+# Homepage: http://tramsach.com
+# Filter Link:
+
+# NOTE: Bạn cần phải biết rõ điều bạn làm trước khi áp dụng bộ lọc này.
+
+# Apple Update
+||appldnld.apple.com^
+||appldnld.apple.com.akadns.net^
+||appldnld-lb.apple.com.akadns.net^
+||appldnld.g.aaplimg.com^
+||mesu.apple.com^
+||mesu-cdn.apple.com.akadns.net^
+||mesu-cdn.origin-apple.com.akadns.net^
+||mesu.apple.com.edgekey.net^
+||gdmf.apple.com^
+||gdmf.apple.com.akadns.net^
+||ocsp.apple.com^
+||ocsp-lb.apple.com.akadns.net^
+||ocsp-a.g.aaplimg.com^
+||ocsp2.apple.com^
+||ocsp2-lb.apple.com.akadns.net^
+||ocsp2.g.aaplimg.com^
+# MDM Block
+||mdmenrollment.apple.com^
+||profiles.apple.com^
+||deviceenrollment.apple.com^
+# Certification block

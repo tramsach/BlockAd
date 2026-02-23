@@ -30,11 +30,6 @@ https://raw.githubusercontent.com/tramsach/blockad/admin/vnads
 https://raw.githubusercontent.com/tramsach/blockad/admin/vnbadsite
 ```
 
-#### Bộ lọc tên miền có mã độc
-```
-https://raw.githubusercontent.com/tramsach/blockad/admin/malware
-```
-
 #### Block Zalo (not listed)
 ```
 https://raw.githubusercontent.com/tramsach/blockad/admin/blockzalo
