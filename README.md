@@ -1,10 +1,9 @@
 # BlockAd by Trạm Sách
 
 Đây là bộ lọc quảng cáo của Trạm Sách Team.
-Bộ lọc này được xây dựng phục vụ chặn quảng cáo cho team bằng ứng dụng AdGuard (bao gồm cả bản Premium và Home).
+Bộ lọc này được xây dựng để chặn quảng cáo bằng ứng dụng AdGuard, hoặc cấu hình DNS cho iOS, ipadOS, macOS.
 
-### Tải bộ lọc cho iOS, iPad OS, macOS tại đây:
-
+### Tải bộ lọc cho iOS, iPad OS, macOS:
 
 [https://github.com/tramsach/BlockAd/raw/refs/heads/admin/opt/iOS_macOS/1st_CF_DoT.mobileconfig](https://github.com/tramsach/BlockAd/raw/refs/heads/admin/opt/iOS_macOS/1st_CF_DoT.mobileconfig)
 
