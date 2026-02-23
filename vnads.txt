@@ -3,9 +3,6 @@
 # Version: v26.02
 # Contact me: me@nguyenson.dev
 
-# anti-brainrot
-||tiktok.com^
-
 #[VNG Groups]
 #[Zadn.vn]
 ||adtima-common.zadn.vn^
@@ -2184,3 +2181,6 @@
 ||za.baomoi.com^
 ||zigzag.vn^
 ||ztrck.me^
+# Other Update
+#[anti-brainrot]
+||tiktok.com^

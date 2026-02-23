@@ -1,0 +1,41 @@
+# Title: Block Shopee Video and Livestream
+# Last modified: 23 Feb 2026 10:00 UTC+7
+# Version: v26.02
+# Contact: me@nguyenson.dev
+# Note: internal only
+
+# Control Volume on devices
+||ubt.tracking.shopee.vn^$client='10.21.12.100'
+||remote-config.gslb.sgw.shopeemobile.com^$client='10.21.12.100'
+# Livestream 
+||livetech.shopee.vn.txlivecdn.com^$client='10.21.12.100'
+||livesteaming-api-dr.sp-cdn.susercontent.com^
+||all.huodonghylivecdn.sched.ovscdns.net^
+||play-hw-las.livetech.shopee.vn^
+||play-ws-las.livetech.shopee.vn^
+||play-tx-las.livetech.shopee.vn^
+||play-spe.livestream.shopee.vn^
+||live-apm.shopee.vn^$client='10.21.12.100'
+||data-rep.livetech.shopee.vn^$client='10.21.12.100'
+||livesteaming-api-dr.sp-cdn.susercontent.com.cdn20.com^$client='10.21.12.100'
+||livetech.shopee.vn^$client='10.21.12.100'
+||live.shopee.vn^$client='10.21.12.100'
+# Video on demand
+||games.shopee.vn^$client='10.21.12.100'
+||deo.shopeemobile.com^$client='10.21.12.100'
+||patronus.idata.shopeemobile.com^$client='10.21.12.100'
+||content.garena.com^$client='10.21.12.100'
+||msdk.shopee.vn^$client='10.21.12.100'
+||cdngarenanow-a.akamaihd.net^$client='10.21.12.100'
+||sv.shopee.vn^$client='10.21.12.100'
+||games.shopee.vn^$client='10.21.12.100'
+||play-zl-src.livestream.shopee.vn.fastecn.com^$client='10.21.12.100'
+||qdown-sp-vn.vod.susercontent.com^$client='10.21.12.100'
+||app-vn.deo.susercontent.com^$client='10.21.12.100'
+||down-zl-vn.vod.susercontent.com^$client='10.21.12.100'
+||mms.vod.susercontent.com^$client='10.21.12.100'
+||zshopeevod.v.baishan-cloud.net^
+||down-zl-vn.vod.susercontent.com.bgslb.fastecn.com^
+||qdown-sp-vn.vod.susercontent.com^
+||down-cvs-vn.vod.susercontent.com^
+||down-tx-vn.vod.susercontent.com^

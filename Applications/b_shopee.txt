@@ -1,0 +1,40 @@
+# Title: Block Shopee Video and Livestream
+# Last modified: 23 Feb 2026 10:00 UTC+7
+# Version: v26.02
+# Contact: me@nguyenson.dev
+
+# Control Volume on devices
+||ubt.tracking.shopee.vn^
+||remote-config.gslb.sgw.shopeemobile.com^
+# Livestream 
+||livetech.shopee.vn.txlivecdn.com^
+||livesteaming-api-dr.sp-cdn.susercontent.com^
+||all.huodonghylivecdn.sched.ovscdns.net^
+||play-hw-las.livetech.shopee.vn^
+||play-ws-las.livetech.shopee.vn^
+||play-tx-las.livetech.shopee.vn^
+||play-spe.livestream.shopee.vn^
+||live-apm.shopee.vn^
+||data-rep.livetech.shopee.vn^
+||livesteaming-api-dr.sp-cdn.susercontent.com.cdn20.com^
+||livetech.shopee.vn^
+||live.shopee.vn^
+# Video on demand
+||games.shopee.vn^
+||deo.shopeemobile.com^
+||patronus.idata.shopeemobile.com^
+||content.garena.com^
+||msdk.shopee.vn^
+||cdngarenanow-a.akamaihd.net^
+||sv.shopee.vn^
+||games.shopee.vn^
+||play-zl-src.livestream.shopee.vn.fastecn.com^
+||qdown-sp-vn.vod.susercontent.com^
+||app-vn.deo.susercontent.com^
+||down-zl-vn.vod.susercontent.com^
+||mms.vod.susercontent.com^
+||zshopeevod.v.baishan-cloud.net^
+||down-zl-vn.vod.susercontent.com.bgslb.fastecn.com^
+||qdown-sp-vn.vod.susercontent.com^
+||down-cvs-vn.vod.susercontent.com^
+||down-tx-vn.vod.susercontent.com^

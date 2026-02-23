@@ -1,16 +1,14 @@
 # Title: Block Zalo Apps
 # Last modified: 23 Feb 2026 10:00 UTC+7
 # Version: v26.01
-# Homepage: http://tramsach.com
-# Note: Block Zalo app
+# Contact: me@nguyenson.dev
 
-# Primary Domains
+#[Primary Domains]
 ||zadn.vn^
 ||zalo.me^
 ||zaloapp.com^
 ||zaloapps.com^
-
-# Zalo.me
+#[Zalo.me]
 ||chat1-wpa.chat.zalo.me^
 ||chat2-wpa.chat.zalo.me^
 ||chat3-wpa.chat.zalo.me^
@@ -46,8 +44,7 @@
 ||p8-ctl.chat.zalo.me^
 ||p5-msg.chat.zalo.me^
 ||p4-msg.chat.zalo.me^
-
-# Zaloapp.com
+#[Zaloapp.com]
 ||bkmsg-talk.zaloapp.com^
 ||setting.api.zaloapp.com^
 ||talk-m.zaloapp.com^
@@ -71,8 +68,7 @@
 ||chat1-wpa.api.zaloapp.com^
 ||stc.za.zaloapp.com^
 ||profile-wpa.zaloapp.com^
-
-# Zadn.vn
+#[Zadn.vn]
 ||zfeed-video-mcloud-bf-s13.zadn.vn^
 ||res-zalo.zadn.vn^
 ||s160-ava-talk.zadn.vn^
@@ -141,12 +137,8 @@
 ||log-*.zadn.vn^
 ||mplaylist-ads.zadn.vn^
 ||sdk.zadn.vn^
-
-# Zapps.vn
+#[Zapps.vn]
 ||lp-zm.zapps.vn^
 ||rd.zapps.vn^
-
-# unknown
+#[unknown]
 ||qos-talk.123c.vn^
-
-

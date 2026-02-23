@@ -1,9 +1,9 @@
 # Title: Trạm Sách Global Min
-# Update: 25 Oct 2022 10:00 UTC+7
-# Version: Global Min Beta 2
+# Update: 23 Feb 2026 10:00 UTC+7
+# Version: v26.02
 # Please report any ads or problems on GitHub
-# Homepage: http://tramsach.com
-# Filter Link: https://raw.githubusercontent.com/tramsach/blockad/admin/globalmin
+# Contact: me@nguyenson.dev
+
 
 #  apple  
 0.0.0.0 advertising.apple.com
