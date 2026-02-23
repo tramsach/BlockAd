@@ -1,5 +1,5 @@
 # Title: Trạm Sách Block Apple Update
-# Update: 23 Feb 2025 23:00 UTC+7
+# Update: 23 Feb 2026 23:00 UTC+7
 # Version: OTA Block Beta 1
 # Homepage: http://tramsach.com
 # Filter Link:

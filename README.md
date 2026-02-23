@@ -3,17 +3,14 @@
 Đây là bộ lọc quảng cáo của Trạm Sách Team.
 Bộ lọc này được xây dựng phục vụ chặn quảng cáo cho team bằng ứng dụng AdGuard (bao gồm cả bản Premium và Home).
 
-Hiện tại chúng mình đang xây dựng bộ lọc cho các ứng dụng trên điện thoại như Surge, Shadowrocket, QuantumultX, Adaway.
+Tải bộ lọc cho iOS, iPad OS, macOS tại đây:
 
-Bộ lọc cho iOS, iPad OS, macOS đã hoàn thành và sẽ được cập nhật sau
-
+```
+https://github.com/tramsach/BlockAd/raw/refs/heads/admin/opt/iOS_macOS/1st_CF_DoT.mobileconfig
+```
 
 ## Các bộ lọc quảng cáo cho Adguard Home
 
-_**Worker tự tổng hợp và định dạng theo AdGuardHome.**_
-```
-https://aghlist.ntson.workers.dev
-```
 
 #### Bộ lọc quảng cáo nước ngoài (thu thập qua monitor trên router và vpn).
 ```

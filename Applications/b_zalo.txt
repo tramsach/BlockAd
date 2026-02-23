@@ -1,6 +1,6 @@
 # Title: Block Zalo Apps
-# Last modified: 28 Dec 2022 10:00 UTC+7
-# Version: v12.22
+# Last modified: 23 Feb 2026 10:00 UTC+7
+# Version: v26.01
 # Homepage: http://tramsach.com
 # Note: Block Zalo app
 

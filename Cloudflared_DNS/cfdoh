@@ -7,7 +7,7 @@
 # anti-brainrot
 ||tiktok.com^
 
-# VNG Groups
+#[VNG Groups]
 #[Zadn.vn]
 ||adtima-common.zadn.vn^
 ||adtima-static-td.zadn.vn^
@@ -1434,6 +1434,43 @@
 ||cdn.myad.vn^
 ||dmp.myad.vn^
 ||www.myad.vn^
+#[gvt2.com]
+||beacons.gcp.gvt2.com^
+||beacons.gvt2.com^
+||beacons2.gvt2.com^
+||beacons3.gvt2.com^
+||beacons4.gvt2.com^
+||beacons5.gvt2.com^
+#[beacons*.gvt3.com]
+||beacons5.gvt3.com^
+||beacons6.gvt3.com^
+#[appsflyer.com]
+||api.appsflyer.com^
+||api2.appsflyer.com^
+||attr.appsflyer.com^
+||cdn.appsflyer.com^
+||cdnappicons.appsflyer.com^
+||conversions.appsflyer.com^
+||events.appsflyer.com^
+||fvalid.appsflyer.com^
+||gcdsdk.appsflyer.com^
+||hq1.appsflyer.com^
+||impression.appsflyer.com^
+||inapps.appsflyer.com^
+||launches.appsflyer.com^
+||monitorsdk.appsflyer.com^
+||onelink.appsflyer.com^
+||register.appsflyer.com^
+||s2s.appsflyer.com^
+||sdk-services.appsflyer.com^
+||sdk.appsflyer.com^
+||skadsdk.appsflyer.com^
+||stats.appsflyer.com^
+||t.appsflyer.com^
+||track.appsflyer.com^
+||validate.appsflyer.com^
+||wa.appsflyer.com^
+||websdk.appsflyer.com^
 #[customers.fptad.com]
 ||customers.fptad.com^
 ||img.customers.fptad.com^
