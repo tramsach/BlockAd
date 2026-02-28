@@ -1,6 +1,3 @@
----
-title: BlockAd - Trạm Sách
----
 # BlockAd by Trạm Sách
 
 Bộ lọc này được xây dựng để chặn quảng cáo bằng ứng dụng AdGuard, hoặc cấu hình DNS cho iOS, ipadOS, macOS.
