@@ -1,11 +1,8 @@
 # Title: Trạm Sách Collector VN Ads Servers
-# Update: 12 Jul 2025 UTC+7
-# Version: v25.07
+# Update: 03 Mar 2026 UTC+7
+# Version: v26.03
 # Filter for Cloudflare DNS - Vietnam Ads Servers
 # Contact me: me@nguyenson.dev
-
-# anti-brainrot
-||tiktok.com^
 
 #[VNG Groups]
 #[Zadn.vn]
@@ -1667,7 +1664,20 @@
 #[shopee.vn]
 ||userstats.shopee.vn^
 ||log-collector.shopee.vn^
-
+||tracking.shopee.vn^
+||userstats.shopee.vn^
+||aurora-data-tracker-ivs.iv.shopee.com^
+||df.infra.sz.shopee.vn^
+||food-metric.shopee.vn^
+||livetech.shopee.vn^
+||msdk.shopee.vn^
+||sub-us.ccms.shopee.io^
+# [lazada]
+||jmacs-m.lazada.vn^
+||msgacs-m.lazada.vn^
+# [anti-brainrot]
+||tiktok.com^
+# [Unknown]
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -1996,7 +2006,6 @@
 ||live.careplusvn.com^
 ||live.vnpgroup.net^
 ||liveonline.nhanhoa.com^
-||log-collector.shopee.vn^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
