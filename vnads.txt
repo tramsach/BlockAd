@@ -1663,7 +1663,20 @@
 #[shopee.vn]
 ||userstats.shopee.vn^
 ||log-collector.shopee.vn^
-
+||tracking.shopee.vn^
+||userstats.shopee.vn^
+||aurora-data-tracker-ivs.iv.shopee.com^
+||df.infra.sz.shopee.vn^
+||food-metric.shopee.vn^
+||livetech.shopee.vn^
+||msdk.shopee.vn^
+||sub-us.ccms.shopee.io^
+# [lazada]
+||jmacs-m.lazada.vn^
+||msgacs-m.lazada.vn^
+# [anti-brainrot]
+||tiktok.com^
+# [Un-sort]
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
