@@ -1,0 +1,44 @@
+# Title: Cloudflare Gateway Whitelist
+# Last modified: 03 Mar 2026 10:00 UTC+7
+# Version: v26.03
+# Contact: me@nguyenson.dev
+
+# Google Cloud
+ssh.cloud.google.com
+meet.google.com
+instantmessaging-pa.googleapis.com
+firestore.googleapis.com
+console.cloud.google.com
+# Syncthing
+relays.syncthing.net
+discovery-announce-v4.syncthing.net
+discovery-announce-v6.syncthing.net
+discovery-lookup.syncthing.net
+line.naver.jp
+control.phone.com
+firestore.clients6.google.com
+# Router interfaces
+fritz.box
+speedport.ip
+easy.box
+# Unknown 
+mail.hostmonster.com
+nest.com
+swisslife.ch
+api.viber.com
+media-share-4.s3-eu-west-1.amazonaws.com
+media-share-5.s3.eu-central-1.amazonaws.com
+media-share-1.s3.amazonaws.com
+keenetic.pro
+keenetic.link
+startmail.com
+profile.franklintempleton.com
+vnn-res.vgcloud.vn
+api.samsungcloud.com
+hpcloud.hp.com
+hpcloud.hp.net
+api.apple-cloudkit.com
+static.adtidy.org
+link.adtidy.org
+api.adguard.org
+voipnx-saturn.line-apps.com
