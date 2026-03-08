@@ -1675,6 +1675,13 @@
 # [lazada]
 ||jmacs-m.lazada.vn^
 ||msgacs-m.lazada.vn^
+# [bugsnag]
+||notify.bugsnag.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com^
+||app.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
 # [anti-brainrot]
 ||tiktok.com^
 # [Unknown]

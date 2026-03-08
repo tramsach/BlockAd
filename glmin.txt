@@ -1,4 +1,4 @@
-# Title: Trạm Sách Global Min
+# Title: Trạm Sách Global Min for Vietnamese
 # Update: 23 Feb 2026 10:00 UTC+7
 # Version: v26.02
 # Please report any ads or problems on GitHub
