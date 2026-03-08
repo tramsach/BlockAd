@@ -7,7 +7,4 @@ https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://raw.githubusercontent.com/tramsach/blockad/admin/globalmin
 https://raw.githubusercontent.com/tramsach/blockad/admin/vnbadsite
-
-
-
 https://github.com/AdguardTeam/AdGuardSDNSFilter?tab=readme-ov-file

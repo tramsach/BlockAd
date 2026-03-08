@@ -89,7 +89,10 @@ def normalize_line(line: str) -> str | None:
 
     # hosts: '0.0.0.0 domain' hoặc '127.0.0.1 domain'
     parts = s.split()
-    if len(parts) >= 2 and (parts[0].replace(".", "").isdigit() or parts[0] in {"0.0.0.0", "127.0.0.1"}):
+    if len(parts) >= 2 and (
+        parts[0].replace(".", "").isdigit()
+        or parts[0] in {"0.0.0.0", "127.0.0.1"}
+    ):
         host = parts[1].strip()
         if host and "." in host and "*" not in host:
             return host
@@ -120,41 +123,39 @@ def main() -> None:
 
     # 3. Nhóm theo root domain
     print("Đang nhóm theo root domain ...")
-    # Tạo mapping root -> list domains
     groups: dict[str, list[str]] = {}
     for d in domains:
         root = get_root(d)
         groups.setdefault(root, []).append(d)
 
-    # Tách nhóm:
-    # - multi_roots: root có từ 2 domain trở lên
-    # - single_roots: root chỉ xuất hiện 1 lần
-    multi_roots = sorted([r for r, ds in groups.items() if len(ds) > 1])
-    single_roots = sorted([r for r, ds in groups.items() if len(ds) == 1])
+    # Tách root xuất hiện nhiều lần và root xuất hiện 1 lần
+    multi_roots = sorted(r for r, ds in groups.items() if len(ds) > 1)
+    single_domains: list[str] = []
+    for root, ds in groups.items():
+        if len(ds) == 1:
+            single_domains.extend(ds)
 
     out_lines: list[str] = []
 
-    # 3a. In các nhóm root có nhiều domain
+    # 3a. Các root có từ 2 domain trở lên
     for root in multi_roots:
-        out_lines.append(f"# {root}")
+        out_lines.append(f"# [{root}]")
         for d in sorted(groups[root]):
             out_lines.append(d)
 
-    # 3b. Các root chỉ xuất hiện 1 lần đưa xuống cuối
-    if single_roots:
+    # 3b. Các root chỉ xuất hiện 1 lần -> đưa xuống cuối
+    if single_domains:
         if out_lines:
-            out_lines.append("")  # ngăn cách
-        out_lines.append("# 1 time domain")
-        for root in single_roots:
-            out_lines.append(f"# {root}")
-            out_lines.append(groups[root][0])
+            out_lines.append("")  # ngăn cách một dòng trống
+        out_lines.append("# [1 time domain]")
+        for d in sorted(single_domains):
+            out_lines.append(d)
 
     FINAL_PATH.write_text("\n".join(out_lines) + "\n", encoding="utf-8")
     print(f"Hoàn tất. Kết quả lưu tại {FINAL_PATH}")
 
 
 if __name__ == "__main__":
-    # Giúp run bằng 'python3 fetch_merge_domains.py'
     try:
         main()
     except KeyboardInterrupt:

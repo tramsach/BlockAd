@@ -23,7 +23,6 @@ tls://anycast.dns.nextdns.io
 35.198.234.65
 103.188.82.162
 
-
 # Cloudflare DNS
 ## Standard
 1.1.1.1
@@ -42,7 +41,6 @@ https://family.cloudflare-dns.com/dns-query
 ## Tunnel
 172.64.36.1
 172.64.36.2
-
 
 # Google DNS
 8.8.8.8
