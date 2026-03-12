@@ -1,0 +1,5 @@
+https://abpvn.com/filter/abpvn-F7fFAh.txt
+https://raw.githubusercontent.com/tramsach/BlockAd/refs/heads/admin/globalmin.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/source/threat-VN.txt
